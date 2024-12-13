@@ -1,9 +1,6 @@
 # 🛠️ **Grafana-Loki-Setup**
 
-[![Grafana](https://img.shields.io/badge/Grafana-FF9800?style=flat-square&logo=grafana&logoColor=white)](https://grafana.com/)  
-[![Loki](https://img.shields.io/badge/Loki-00BFFF?style=flat-square&logo=grafana&logoColor=white)](https://grafana.com/oss/loki/)  
-[![Promtail](https://img.shields.io/badge/Promtail-228B22?style=flat-square&logo=grafana&logoColor=white)](https://grafana.com/docs/loki/latest/clients/promtail/)  
-[![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)](https://prometheus.io/)
+[![Grafana](https://img.shields.io/badge/Grafana-FF9800?style=flat-square&logo=grafana&logoColor=white)](https://grafana.com/) [![Loki](https://img.shields.io/badge/Loki-00BFFF?style=flat-square&logo=grafana&logoColor=white)](https://grafana.com/oss/loki/) [![Promtail](https://img.shields.io/badge/Promtail-228B22?style=flat-square&logo=grafana&logoColor=white)](https://grafana.com/docs/loki/latest/clients/promtail/) [![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)](https://prometheus.io/)
 
 ![Banner](img/background.png)
 
