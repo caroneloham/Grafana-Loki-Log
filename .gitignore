@@ -1,0 +1,56 @@
+# Logs
+*.log
+*.log.*
+
+# Docker
+**/docker-compose.override.yml
+**/docker-compose.yml
+**/.docker/
+**/.dockerignore
+
+# Node Modules (si applicable)
+node_modules/
+npm-debug.log
+
+# Configuration files
+loki-config.yaml
+promtail-config.yaml
+prometheus-config.yaml
+
+# Secrets
+.env
+secrets.env
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+
+# Backup files
+*.bak
+*.swp
+*.tmp
+
+# Compiled files
+*.o
+*.out
+*.class
+
+# Archives
+*.tar.gz
+*.zip
+*.rar
+
+# Images
+img/*.png
+
+# Git
+.git/
+
+# Grafana Plugins et Data
+**/grafana-plugins/
+**/grafana-data/
